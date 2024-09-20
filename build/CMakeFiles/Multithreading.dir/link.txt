@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/Multithreading.dir/src/main.cpp.o -o Multithreading
